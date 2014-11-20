@@ -7,11 +7,22 @@ title: Top page
 
 ## スクラム道にようこそ
 
+![top image](/images/top/top_image.png)
+
+
 スクラム道はScrumを中心にアジャイルを探究するための場です。 
 アジャイルは本を読んだだけでは大事な部分は伝わらず、そのため、せっかく現場でスクラムやアジャイルのプラクティスを導入しても上手く成果が出ないという悩みを良く聞きます。
 我々はこの活動を通じて、スクラムを導入して成功する現場を一つでも増やす事をゴールとしています。
 
 [さらに詳しく...](/about.html)
+
+![tos image1](/images/top/IMG_1487-150x150.png)
+![tos image2](/images/top/IMG_1482-150x150.png)
+![tos image3](/images/top/IMG_1418-150x150.png)
+![tos image4](/images/top/IMG_1403-150x150.png)
+![tos image5](/images/top/IMG_1400-150x150.png)
+![tos image6](/images/top/IMG_1396-150x150.png)
+
 
 ## コンテンツ
 
