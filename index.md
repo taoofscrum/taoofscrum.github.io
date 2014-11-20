@@ -16,12 +16,7 @@ title: Top page
 
 [さらに詳しく...](/about.html)
 
-![tos image1](/images/top/IMG_1487-150x150.png)
-![tos image2](/images/top/IMG_1482-150x150.png)
-![tos image3](/images/top/IMG_1418-150x150.png)
-![tos image4](/images/top/IMG_1403-150x150.png)
-![tos image5](/images/top/IMG_1400-150x150.png)
-![tos image6](/images/top/IMG_1396-150x150.png)
+![tos image1](/images/top/IMG_1487-150x150.png) ![tos image2](/images/top/IMG_1482-150x150.png) ![tos image3](/images/top/IMG_1418-150x150.png) ![tos image4](/images/top/IMG_1403-150x150.png) ![tos image5](/images/top/IMG_1400-150x150.png) ![tos image6](/images/top/IMG_1396-150x150.png)
 
 
 ## コンテンツ
