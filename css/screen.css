@@ -141,7 +141,7 @@ a:active {
     margin: 20px auto;
 }
 
-.inline-img {
+img.inline-img {
     display: inline;
     margin: 20px auto;
 }
