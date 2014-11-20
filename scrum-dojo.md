@@ -125,7 +125,7 @@ title: Top page
 
 ### 資料
 
-<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/Ryuzee/done-scrumdo" title="Doneの定義 虎の巻 #scrumdo" target="_blank">Doneの定義 虎の巻 #scrumdo</a></strong><iframe src="http://www.slideshare.net/slideshow/embed_code/10689768" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/Ryuzee/done-scrumdo" title="Doneの定義 虎の巻 #scrumdo" target="_blank">Doneの定義 虎の巻 #scrumdo</a></strong>
 View more [presentations](http://www.slideshare.net/) from [Ryuzee YOSHIBA](http://www.slideshare.net/Ryuzee)
 
 ### 開催概要

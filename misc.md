@@ -361,7 +361,7 @@ Scrum to Goとは、スクラムの導入や実践に関して相談したいこ
 2011年9月3日(土)に早稲田大学理工学部で行われたXP祭り(記念すべ第10回！)で、Scrumはじめの一歩という初心者向けセッションを、西村さんと一緒に出張して実施してきました。
 ご参加頂いた方、お手伝い頂いたスタッフの方、こっそり紛れ込んでもらった仲間たちありがとうございました。
 
-[2011年 XP祭り Scrumはじめの一歩 #xpjug](http://www.slideshare.net/Ryuzee/2011-xp-scrum-xpjug)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/Ryuzee/2011-xp-scrum-xpjug" title="2011年 XP祭り Scrumはじめの一歩 #xpjug">2011年 XP祭り Scrumはじめの一歩 #xpjug</a></strong><object id="__sse9125911" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2011xpscrum-110904034838-phpapp01&#038;stripped_title=2011-xp-scrum-xpjug&#038;userName=Ryuzee" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse9125911" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=2011xpscrum-110904034838-phpapp01&#038;stripped_title=2011-xp-scrum-xpjug&#038;userName=Ryuzee" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 今回は90分コースでしたので、全体の概要をざっくり抑えたうえで、ワークショップをやって実際のScrumのイメージを掴んでいただくことを目的としてます。次はフルコースで聞きたいという方は是非Scrum Boot Campにお越しください。Scrum Boot Campは次回は9/7(水)にデブサミ関西の特別併設セッションとして神戸で実施し、その次は10月22日(土)にScrum Gathering Tokyo 2011のDay2で実施される予定です。
 
@@ -389,8 +389,9 @@ Scrum to Goとは、スクラムの導入や実践に関して相談したいこ
 
 ### 資料
 
-* [Scrumdo Burst](http://www.slideshare.net/nawoto/scrumdo-butst)
-* [スプリント計画ミーティング（スクラム道バーストバージョン）](http://www.slideshare.net/MihoNagase/ss-8432671)
+* <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/nawoto/scrumdo-butst" title="Scrumdo Burst">Scrumdo Burst</a></strong><object id="__sse8559169" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-butst-110710203534-phpapp01&#038;stripped_title=scrumdo-butst&#038;userName=nawoto" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse8559169" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-butst-110710203534-phpapp01&#038;stripped_title=scrumdo-butst&#038;userName=nawoto" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
+* <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/MihoNagase/ss-8432671" title="スプリント計画ミーティング（スクラム道バーストバージョン）">スプリント計画ミーティング（スクラム道バーストバージョン）</a></strong><object id="__sse8432671" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-05-sprint-planning-meeting-110627031443-phpapp01&#038;stripped_title=ss-8432671&#038;userName=MihoNagase" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse8432671" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-05-sprint-planning-meeting-110627031443-phpapp01&#038;stripped_title=ss-8432671&#038;userName=MihoNagase" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
+
 
 ### 開催概要
 
