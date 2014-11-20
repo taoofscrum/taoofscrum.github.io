@@ -59,6 +59,8 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 
 ## Scrum Boot Camp in 札幌を開催します! (12/1)
 
+<img src="/images/sbc/sapporo-eyecatch.png" width="100%">
+
 ** Scrum Boot Campは地域の要望があればどんどんお伺いします！**
 
 今回のScrum Boot Campはアジャイル札幌さんお招きいただき、札幌で開催されることになりました。
@@ -103,6 +105,8 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 [Scrum Boot Camp in 札幌に参加しました » 寺子屋未満](http://terakonya.sarm.net/wordpress/2012/12/11/scrumbc-in-sapporo/) 
 
 ## Scrum Boot Camp in 福岡 を開催します! (9/8)
+
+<img src="/images/sbc/SBCFukuoka.jpg" width="100%">
 
 ** Scrum Boot Campは地域の要望があればどんどんお伺いします！ **
 今回は福岡での開催です。九州地区では認定スクラムマスター研修等は行われず、なかなかScrumについて体系的に学習する機会はないと思いますので、ぜひふるってご参加ください。
@@ -164,6 +168,8 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 
 ## Scrum Boot Camp in CEDEC (8/20)
 
+<img src="/images/sbc/SBC.jpg" width="100%">
+
 Scrum Boot Campは経験豊富なアジャイルコーチによるScrum入門研修です。 今回は8/20から行われるCEDEC 2012 (Computer Entertainment Developers Conference 2012)の中のセッションの１つとして行われます。CEDEC自体の申し込み終了は8月13日までですので御検討中の方はお急ぎください！
 
 [詳細はこちらです！](http://cedec.cesa.or.jp/2012/program/BM/C12_P0034.html)
@@ -207,6 +213,8 @@ Agileとは何か？Scrumとは何か？といった座学だけでなく、実�
 
 ## 第7回 Scrum Boot Camp 東京
 
+<img src="/images/sbc/th_sbc.png" width="100%">
+
 Scrum Boot Campは経験豊富なアジャイルコーチによるScrum入門研修です。 久々の東京開催として、6/16(土)に日本マイクロソフト株式会社様のに会場をお借りして実施しますので以下ご案内です。
 
 なお、東京以外だと、[5/26 名古屋(空席あり)](http://atnd.org/events/27481)、[6/16 大阪(キャンセル待ち)](http://atnd.org/events/26778) でも開催予定です。また正式決定ではありませんが、ハンズアウト付きのScrum Boot Camp Premium (第二回)を7月に実施する方向で準備中です。
@@ -218,6 +226,10 @@ Scrum(スクラム)は竹内弘高氏、野中郁二郎氏が1986年にハーバ
 そこで今回はこれからScrumを導入して開発を行うことを検討されている方もしくはトレーニングを受けない(受けさせて貰えない)ままにScrumチームに参加されている方を対象に、Scrumの基礎講習を実施いたします。
 
 このコースでは講師によるAgileおよびScrumについての解説と、5人程度のチームに分かれてのワークショップを行います。
+
+### 講習テキストのイメージ
+
+<img src="/images/sbc/top_Scrum_ryuzee1.png" width="100%">
 
 ### ゴール
 
@@ -248,6 +260,8 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 [詳細およびお申し込みはこちらから](http://kokucheese.com/event/index/37041/)
 
 ## 第6回 Scrum Boot Camp 大阪
+
+<img src="/images/sbc/th_sbc2.png" width="100%">
 
 ### Scrum Boot Campとは？
 
@@ -297,6 +311,8 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 不明な点がありましたら@yohhatuまでMention頂くか、#scrumbcタグをつけてTweetしてください。
 
 ## 第5回 Scrum Boot Camp in 名古屋
+
+<img src="/images/sbc/th_sbc1.png" width="100%">
 
 ### Scrum Boot Campとは？
 
@@ -446,7 +462,8 @@ Agileとは何か？Scrumとは何か？といった座学だけでなく、実�
 また前回は私個人による主催でしたが、今回よりスクラム道が公式に主催することになりました。今後は首都圏のみならず名古屋、大阪やその他地方での開催を検討していきますのでご期待ください。
 
 前回のScrum Boot Campの様子
-[todo]
+<img src="/images/sbc/top_scrumbc_planning_poker.png" width="100%">
+
 
 ### 開催詳細と申込み
 
@@ -496,7 +513,7 @@ Agileとは何か？Scrumとは何か？といった座学だけでなく、実�
 
 講習資料のサンプル
 
-![a sample of the scrum boot camp materials](/images/top_Scrum_material.png "a sample of the scrum boot camp materials")
+<img src="/images/sbc/top_Scrum_material.png" width="100%">
 
 ### 開催詳細と申込み
 
