@@ -485,6 +485,7 @@ Agileとは何か？Scrumとは何か？といった座学だけでなく、実�
 ### 前回のScrum Boot Campの様子
 
 ネタバレ注意ですが、前回のScrum Boot Campの参加者の方の感想を以下にリンクしておきますのでご参考ください。
+
 * [Scrum Boot Camp 横浜 に行ってきました！](http://d.hatena.ne.jp/ShiroKappa+_tech/20110619/1308498878)
 * [Scrum Boot Camp横浜に参加した感想](http://qwerty1qaz.blogspot.com/2011/06/scrum-boot-camp.html)
 * [Scrum Boot Camp 横浜に参加してきた – Diary of absj31](http://d.hatena.ne.jp/absj31/20110618/1308491336)
