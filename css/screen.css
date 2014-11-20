@@ -141,6 +141,11 @@ a:active {
     margin: 20px auto;
 }
 
+.inline-img {
+    display: inline;
+    margin: 20px auto;
+}
+
 #site {
   width: 800px;
   margin: 0px auto 4em auto;

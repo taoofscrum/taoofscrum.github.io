@@ -16,7 +16,7 @@ title: Top page
 
 [さらに詳しく...](/about.html)
 
-</p><img src="/images/top/IMG_1487-150x150.png"><img src="/images/top/IMG_1482-150x150.png"><img src="/images/top/IMG_1418-150x150.png"><img src="/images/top/IMG_1403-150x150.png"><img src="/images/top/IMG_1400-150x150.png"><img src="/images/top/IMG_1396-150x150.png"><p>
+<img class="inline-img" src="/images/top/IMG_1487-150x150.png"><img class="inline-img" src="/images/top/IMG_1482-150x150.png"><img class="inline-img" src="/images/top/IMG_1418-150x150.png"><img class="inline-img" src="/images/top/IMG_1403-150x150.png"><img class="inline-img" src="/images/top/IMG_1400-150x150.png"><img class="inline-img" src="/images/top/IMG_1396-150x150.png">
 
 
 ## コンテンツ
