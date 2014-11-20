@@ -10,6 +10,8 @@ title: Top page
 
 ## Scrum Boot Camp in NII
 
+![scrum boot camp](/images/sbc/2012-08-20-15.24.09-1024x768.jpg)
+
 Scrum Boot Campは経験豊富なアジャイルコーチによるScrum入門研修です。 6/15(土)にNPO法人トップエスイー教育センター様の協力のもと、国立情報学研究所様に会場をお借りして実施します。以下ご案内です。
 
 ### 概要
