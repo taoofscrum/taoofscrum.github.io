@@ -63,7 +63,7 @@ title: Top page
 
 ### 資料
 
-[スクラム道場.10 「朝会」](http://www.slideshare.net/imagire/10-game-community-summit-2013)
+<object id="__sse23432492" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=10-pub-130624191517-phpapp01&#038;stripped_title=10-game-community-summit-2013&#038;userName=imagire" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse23432492" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=10-pub-130624191517-phpapp01&#038;stripped_title=10-game-community-summit-2013&#038;userName=imagire" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催概要
 
@@ -88,7 +88,7 @@ title: Top page
 
 ### 資料
 
-[良くかけたインセプションデッキとは?](https://speakerdeck.com/player/4f83f2b121350f002200342e#)
+<script async class="speakerdeck-embed" data-id="4f83f2b121350f002200342e" data-ratio="1.299492385786802" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### 開催概要
 
@@ -126,6 +126,8 @@ title: Top page
 ### 資料
 
 [Doneの定義 虎の巻 #scrumdo]()
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/Ryuzee/done-scrumdo" title="Doneの定義 虎の巻 #scrumdo" target="_blank">Doneの定義 虎の巻 #scrumdo</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/10689768" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/Ryuzee" target="_blank">Ryuzee YOSHIBA</a>
 
 ### 開催概要
 
@@ -151,7 +153,7 @@ title: Top page
 
 ### 資料
 
-[スクラム道場.07](http://www.slideshare.net/imagire/07-9027962)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/imagire/07-9027962" title="スクラム道場.07">スクラム道場.07</a></strong><object id="__sse9027962" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=07pub-110826182534-phpapp02&#038;stripped_title=07-9027962&#038;userName=imagire" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse9027962" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=07pub-110826182534-phpapp02&#038;stripped_title=07-9027962&#038;userName=imagire" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催概要
 
@@ -173,7 +175,7 @@ title: Top page
 
 ### 資料
 
-[スクラム道.06「スクラムマスター」](http://www.slideshare.net/kappa4/06-8186390)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/kappa4/06-8186390" title="スクラム道.06「スクラムマスター」">スクラム道.06「スクラムマスター」</a></strong><object id="__sse8186390" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=06-110602100851-phpapp01&#038;stripped_title=06-8186390&#038;userName=kappa4" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse8186390" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=06-110602100851-phpapp01&#038;stripped_title=06-8186390&#038;userName=kappa4" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催概要
 
@@ -193,7 +195,7 @@ title: Top page
 
 ### 資料
 
-[スクラム道04スプリント0公開用](http://www.slideshare.net/essence/040-6887699)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/essence/040-6887699" title="スクラム道04スプリント0公開用">スクラム道04スプリント0公開用</a></strong><object id="__sse6887699" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=040-110210215009-phpapp01&#038;stripped_title=040-6887699&#038;userName=essence" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse6887699" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=040-110210215009-phpapp01&#038;stripped_title=040-6887699&#038;userName=essence" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催概要
 
@@ -214,7 +216,7 @@ title: Top page
 
 ### 資料
 
-[スプリント計画ミーティング](http://www.slideshare.net/MihoNagase/ss-6492194)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/MihoNagase/ss-6492194" title="スプリント計画ミーティング">スプリント計画ミーティング</a></strong><object id="__sse6492194" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-03-sprint-planning-meeting-110109004217-phpapp02&#038;stripped_title=ss-6492194&#038;userName=MihoNagase" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse6492194" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=scrumdo-03-sprint-planning-meeting-110109004217-phpapp02&#038;stripped_title=ss-6492194&#038;userName=MihoNagase" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催概要
 
@@ -234,7 +236,7 @@ title: Top page
 
 ### 当日の資料
 
-[スプリントバーンダウンチャート虎の巻](http://www.slideshare.net/Ryuzee/ss-6296417)
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/Ryuzee/ss-6296417" title="スプリントバーンダウンチャート虎の巻">スプリントバーンダウンチャート虎の巻</a></strong><object id="__sse6296417" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=20101222-101222072332-phpapp02&#038;stripped_title=ss-6296417&#038;userName=Ryuzee" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse6296417" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=20101222-101222072332-phpapp02&#038;stripped_title=ss-6296417&#038;userName=Ryuzee" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催詳細とお申し込み
 
@@ -257,8 +259,7 @@ title: Top page
 
 ### 当日の資料
 
-[KPT is harmful](http://www.slideshare.net/nawoto/kpt-is-harmful-5664407)
-<div style="width:425px" id="__ss_5664407"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/nawoto/kpt-is-harmful-5664407" title="KPT is harmful">KPT is harmful</a></strong><object id="__sse5664407" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse5664407" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object></div>
+<strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/nawoto/kpt-is-harmful-5664407" title="KPT is harmful">KPT is harmful</a></strong><object id="__sse5664407" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse5664407" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object>
 
 ### 開催詳細とお申込み
 
