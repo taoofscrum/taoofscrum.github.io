@@ -410,6 +410,7 @@ Scrumによるアジャイルな開発に興味を持っており導入の検討
 ### 事前学習
 
 お時間に余裕のある方は事前準備として以下の無料リソースをご一読頂くことをオススメします。
+
 * [Scrum Guide （中段に日本語版があります)](http://www.scrum.org/scrumguides/).
 * [塹壕よりScrumとXP](http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches).
 
