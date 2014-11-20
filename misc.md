@@ -123,6 +123,8 @@ XPを実践しているがScrumについては未経験な方
 
 スクラム道初の終日イベントであるスクラム道 EXPO 2012を開催することになりましたのでお知らせします!!
 
+<img src="/images/misc/1197_normal_1344608017_ScrumdoGathering.jpg" width="100%">
+
 [**お申込みはこちらから!!**](http://taoofscrum.doorkeeper.jp/events/1197-%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0%E9%81%93-expo-2012)
 ※お弁当付き、10/1まで早割期間で参加料3,500円です!
 
@@ -207,6 +209,7 @@ Scrum to Goとは、スクラムの導入や実践に関して相談したいこ
 
 ### “ごちゃごちゃ言わんと、誰が一番強いか決めたらええんや!! “
 　(七色のスープレックス)
+<img src="/images/misc/3922312428_9a3d41d815_z.jpg" width="100%">
 
 [写真](http://www.flickr.com/photos/nipotan/3922312428/)はイメージです。すくなくともスクラム道は武闘派ではございませんｗ
 
@@ -270,6 +273,8 @@ Scrum to Goとは、スクラムの導入や実践に関して相談したいこ
 [お申し込み・詳細はこちら](http://kokucheese.com/event/index/41282/)
 
 ## スクラム道 Full Boost 「青物横丁制圧作戦」
+
+<img src="/images/misc/scrumdo-fullboost-mini.png" width="100%">
 
 ### 開催の目的
 
@@ -359,6 +364,8 @@ Scrum to Goとは、スクラムの導入や実践に関して相談したいこ
 [2011年 XP祭り Scrumはじめの一歩 #xpjug](http://www.slideshare.net/Ryuzee/2011-xp-scrum-xpjug)
 
 今回は90分コースでしたので、全体の概要をざっくり抑えたうえで、ワークショップをやって実際のScrumのイメージを掴んでいただくことを目的としてます。次はフルコースで聞きたいという方は是非Scrum Boot Campにお越しください。Scrum Boot Campは次回は9/7(水)にデブサミ関西の特別併設セッションとして神戸で実施し、その次は10月22日(土)にScrum Gathering Tokyo 2011のDay2で実施される予定です。
+
+<img src="/images/misc/s_scrum_first_step.png" width="100%">
 
 ## スクラム道バースト
 

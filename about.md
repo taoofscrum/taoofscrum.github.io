@@ -15,6 +15,7 @@ title: Top page
 
 なお運営については [facebookグループ](https://www.facebook.com/groups/801812086551822/)にて運用していますので、スタッフとして参加を希望される方は是非ご覧ください。
 
+<img class="inline-img" src="/images/top/IMG_1487-150x150.png"><img class="inline-img" src="/images/top/IMG_1482-150x150.png"><img class="inline-img" src="/images/top/IMG_1418-150x150.png"><img class="inline-img" src="/images/top/IMG_1403-150x150.png"><img class="inline-img" src="/images/top/IMG_1400-150x150.png"><img class="inline-img" src="/images/top/IMG_1396-150x150.png">
 
 ## スクラム道プロダクトオーナー(@nawoto)より
 
