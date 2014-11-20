@@ -3,8 +3,6 @@ layout: post
 title: Top page
 ---
 
----
-
 ## スクラム道にようこそ
 
 ![top image](/images/top/top_image.png)
