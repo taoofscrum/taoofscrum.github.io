@@ -258,6 +258,7 @@ title: Top page
 ### 当日の資料
 
 [KPT is harmful](http://www.slideshare.net/nawoto/kpt-is-harmful-5664407)
+<div style="width:425px" id="__ss_5664407"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/nawoto/kpt-is-harmful-5664407" title="KPT is harmful">KPT is harmful</a></strong><object id="__sse5664407" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="wmode" value="transparent"/><embed name="__sse5664407" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=kptisharmful-101104040944-phpapp02&#038;stripped_title=kpt-is-harmful-5664407&#038;userName=nawoto" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="transparent" width="425" height="355"></embed></object></div>
 
 ### 開催詳細とお申込み
 
