@@ -486,14 +486,14 @@ Agileとは何か？Scrumとは何か？といった座学だけでなく、実�
 
 ネタバレ注意ですが、前回のScrum Boot Campの参加者の方の感想を以下にリンクしておきますのでご参考ください。
 
-* [Scrum Boot Camp 横浜 に行ってきました！](http://d.hatena.ne.jp/ShiroKappa+_tech/20110619/1308498878)
-* [Scrum Boot Camp横浜に参加した感想](http://qwerty1qaz.blogspot.com/2011/06/scrum-boot-camp.html)
-* [Scrum Boot Camp 横浜に参加してきた – Diary of absj31](http://d.hatena.ne.jp/absj31/20110618/1308491336)
-* [Scrum Boot Camp横浜でしごかれてきた](http://d.hatena.ne.jp/hogehiga/20110619/1308471895)
-* [Scrum Boot Camp横浜に参加してきました #scrumbc](http://d.hatena.ne.jp/cointoss1973/20110619/1308440372)
-* [Scrum Boot Camp に行ってきました #scrumbc](http://orebil.jimdo.com/2011/06/18/scrum-boot-camp-%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-scrumbc/)
-* [ScrumBootCamp(#scrumbc)にコーチとして参加させて頂きました。](http://d.hatena.ne.jp/takubon/20110618/p1)
-* [Scrum Boot Camp( #scrumbc )参加メモ](http://d.hatena.ne.jp/teyamagu/20110618/p1)
+* [Scrum Boot Camp 横浜 に行ってきました！](http://d.hatena.ne.jp/ShiroKappa+_tech/20110619/1308498878).
+* [Scrum Boot Camp横浜に参加した感想](http://qwerty1qaz.blogspot.com/2011/06/scrum-boot-camp.html).
+* [Scrum Boot Camp 横浜に参加してきた – Diary of absj31](http://d.hatena.ne.jp/absj31/20110618/1308491336).
+* [Scrum Boot Camp横浜でしごかれてきた](http://d.hatena.ne.jp/hogehiga/20110619/1308471895).
+* [Scrum Boot Camp横浜に参加してきました #scrumbc](http://d.hatena.ne.jp/cointoss1973/20110619/1308440372).
+* [Scrum Boot Camp に行ってきました #scrumbc](http://orebil.jimdo.com/2011/06/18/scrum-boot-camp-%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-scrumbc/).
+* [ScrumBootCamp(#scrumbc)にコーチとして参加させて頂きました。](http://d.hatena.ne.jp/takubon/20110618/p1).
+* [Scrum Boot Camp( #scrumbc )参加メモ](http://d.hatena.ne.jp/teyamagu/20110618/p1).
 
 申込みや詳細はこちらから
 [http://kokucheese.com/event/index/14056/](http://kokucheese.com/event/index/14056/)
